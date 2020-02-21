@@ -10,7 +10,8 @@
 
 ### Hindi Language Model:
 
-* Architecture : **AWD-LSTM**  [ASGD Weight-Dropped LSTM](https://medium.com/ai%C2%B3-theory-practice-business/awd-lstm-6b2744e809c5)
+* Architecture : **AWD-LSTM**  
+* Learn more about **AWD-LSTM** Here **--->** [ASGD Weight-Dropped LSTM](https://medium.com/ai%C2%B3-theory-practice-business/awd-lstm-6b2744e809c5)
 
 * **Model Summary :**
 
