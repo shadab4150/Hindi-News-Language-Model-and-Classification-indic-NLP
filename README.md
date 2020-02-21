@@ -12,6 +12,10 @@
 
 * Architecture : **AWD-LSTM**  [ASGD Weight-Dropped LSTM](https://medium.com/ai%C2%B3-theory-practice-business/awd-lstm-6b2744e809c5)
 
+* **Model Summary :**
+
+![kd](https://i.ibb.co/yqwzj9w/awd-lstm.jpg)
+
 * **DataBlock :**
 
 ![kd](https://i.ibb.co/H4QcsvV/data-show.jpg)
@@ -52,4 +56,20 @@
 
 ![kd](https://i.ibb.co/kgWTP0N/top-losses.jpg)
 
+
+## System Requirements
+
+```
+Python v3.6.x
+fastai v1
+Numpy
+Pandas
+tqdm (Progress bar)
+Jupyter Notebook (Visualisations)
+
+```
+
+## Shoutout to
+
+* Practical Deep Learning for Coders **MOOC** by team [**fast.ai**](https://www.fast.ai/)
 
