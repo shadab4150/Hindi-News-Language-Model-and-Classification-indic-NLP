@@ -13,6 +13,10 @@
 * Architecture : **AWD-LSTM**  
 * Learn more about **AWD-LSTM** Here **--->** [ASGD Weight-Dropped LSTM](https://medium.com/ai%C2%B3-theory-practice-business/awd-lstm-6b2744e809c5)
 
+* **LSTM cell structure**
+
+![kd](https://miro.medium.com/max/1023/1*Mr9zEA72R-LdAHtnXyZ0Eg.png)
+
 * **Model Summary :**
 
 ![kd](https://i.ibb.co/yqwzj9w/awd-lstm.jpg)
