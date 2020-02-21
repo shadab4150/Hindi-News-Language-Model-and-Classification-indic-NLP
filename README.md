@@ -1,6 +1,6 @@
 # Hindi News Language Model and Hindi News Classifier : indic NLP
 
-* [**Notebook**](https://nbviewer.jupyter.org/github/shadab4150/Hindi-News-Language-Model-and-Classification-indic-NLP/blob/master/Hindi_News_Language_Model_and_Classification_indic_NLP_v2.ipynb)
+* [**Notebook**](https://github.com/shadab4150/Hindi-News-Language-Model-and-Classification-indic-NLP/blob/master/Hindi_News_Language_Model_and_Classification_indic_NLP_v2.ipynb)
 
 * In this project I trained Hindi Language Model with BBC Hindi News Dataset and then Built a Hindi News Classifier.
 
